@@ -1,4 +1,4 @@
-- Metro-lun (he/him)
+- Beginner (2 years of Python lol)
 - French, likes metros, socks and chocolate
 - Learning Python, will maybe try C and OCaml ?
 
