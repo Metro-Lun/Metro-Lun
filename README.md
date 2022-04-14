@@ -1,6 +1,6 @@
 - Beginner (2 years of Python lol)
 - French, likes metros, socks and chocolate
-- Learning Python, will maybe try C and OCaml ?
+- Learning Python, will maybe try OCaml ?
 
 <!---
 Metro-Lun/Metro-Lun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
