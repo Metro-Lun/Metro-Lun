@@ -1,4 +1,4 @@
-- Beginner (2 years of Python lol)
+- Beginner
 - French, likes metros, socks and chocolate
 - Learning Python, will maybe try OCaml ?
 
