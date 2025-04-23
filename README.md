@@ -1,28 +1,32 @@
 ## Hey ! :wave: ##
 I'm Mehdi (he/him) :
-- A French 19 year-old student
+- A French 20 year-old student
 - Studying computer science
-- Currently learning TypeScript, C++ and LaTeX
+- Currently learning Angular, C# and LaTeX
 
 ### My web dev skills ###
 
-![](https://skillicons.dev/icons?i=html,css,js,ts,php,regex)
+![](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,npm,angular,react,vue,php,regex)
 
 ### My software dev skills ###
 
-![](https://skillicons.dev/icons?i=python,java,c,cpp)
+![](https://skillicons.dev/icons?i=python,django,java,c,cs,dotnet)
 
-### Other things I know how to use ! ###
+### Database skills ###
 
-![](https://skillicons.dev/icons?i=mysql) and Oracle
+![](https://skillicons.dev/icons?i=mysql,postgresql,mongodb) and Oracle
 
 ### Versioning tools ###
 
-![](https://skillicons.dev/icons?i=git,github,gitlab)
+![](https://skillicons.dev/icons?i=git,github,gitlab,trello)
+
+### Linux ###
+
+![](https://skillicons.dev/icons?i=linux,debian,mint,bash)
 
 ### Other things I know how to use ! ###
 
-![](https://skillicons.dev/icons?i=linux,bash,vscode,latex,md)
+![](https://skillicons.dev/icons?i=docker,vscode,vscodium,latex,md)
 
 ### GitHub stats ###
 
